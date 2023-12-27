@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/jenish-jadav/springboot-rest-crud-api/actions/workflows/gradle.yml/badge.svg)](https://github.com/jenish-jadav/springboot-rest-crud-api/actions/workflows/gradle.yml)
+
 # Sample REST CRUD API with Spring Boot, H2 JPA
 
 ## How to Run the application
